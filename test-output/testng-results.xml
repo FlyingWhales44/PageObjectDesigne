@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-31T16:35:56 CEST" name="Default suite" finished-at="2023-03-31T16:36:10 CEST" duration-ms="13426">
+    <groups>
+    </groups>
+    <test started-at="2023-03-31T16:35:56 CEST" name="Default test" finished-at="2023-03-31T16:36:10 CEST" duration-ms="13426">
+      <class name="ArekCompany.SeleniumFrameworkDesigne.SubmitOrderTest">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:ArekCompany.SeleniumFrameworkDesigne.SubmitOrderTest@7334aada]" started-at="2023-03-31T16:35:57 CEST" name="launchApplication" finished-at="2023-03-31T16:36:01 CEST" duration-ms="4824" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="SubmitOrder()[pri:0, instance:ArekCompany.SeleniumFrameworkDesigne.SubmitOrderTest@7334aada]" started-at="2023-03-31T16:36:01 CEST" name="SubmitOrder" finished-at="2023-03-31T16:36:05 CEST" duration-ms="3429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SubmitOrder -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:ArekCompany.SeleniumFrameworkDesigne.SubmitOrderTest@7334aada]" started-at="2023-03-31T16:36:05 CEST" name="closeBrowser" finished-at="2023-03-31T16:36:05 CEST" duration-ms="76" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:ArekCompany.SeleniumFrameworkDesigne.SubmitOrderTest@7334aada]" started-at="2023-03-31T16:36:05 CEST" name="launchApplication" finished-at="2023-03-31T16:36:09 CEST" duration-ms="4313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="OrderHistoryTest()[pri:0, instance:ArekCompany.SeleniumFrameworkDesigne.SubmitOrderTest@7334aada]" started-at="2023-03-31T16:36:09 CEST" name="OrderHistoryTest" finished-at="2023-03-31T16:36:10 CEST" depends-on-methods="ArekCompany.SeleniumFrameworkDesigne.SubmitOrderTest.SubmitOrder" duration-ms="738" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OrderHistoryTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:ArekCompany.SeleniumFrameworkDesigne.SubmitOrderTest@7334aada]" started-at="2023-03-31T16:36:10 CEST" name="closeBrowser" finished-at="2023-03-31T16:36:10 CEST" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- ArekCompany.SeleniumFrameworkDesigne.SubmitOrderTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
